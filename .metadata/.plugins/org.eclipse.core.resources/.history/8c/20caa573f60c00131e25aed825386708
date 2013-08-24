@@ -1,0 +1,16 @@
+import java.util.LinkedList;
+import java.util.Stack;
+
+public class main {
+	//Creation
+	LinkedList<Integer> linkedList = new LinkedList<Integer>();
+	Stack<Integer> stack = new Stack<Integer>();
+	
+	//Addition
+	for(int i=1; i<10; i++)
+		linkedList.add(i);
+	
+	//Reversation
+	while(l)
+	
+}

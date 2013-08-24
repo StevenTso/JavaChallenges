@@ -1,0 +1,18 @@
+import java.util.LinkedList;
+
+
+public static void re
+
+
+public class main {
+	//Creation
+	LinkedList<Integer> ll = new LinkedList<Integer>();
+	
+	//Addition
+	for(int i=1; i<10; i++)
+		ll.add(i);
+	
+	//Reversation
+	
+	
+}

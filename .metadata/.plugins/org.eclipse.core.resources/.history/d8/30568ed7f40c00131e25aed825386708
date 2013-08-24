@@ -1,0 +1,11 @@
+import java.util.LinkedList;
+
+
+public static void re
+
+
+public class main {
+	LinkedList<Integer> ll = new LinkedList<Integer>();
+	
+	
+}
