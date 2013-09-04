@@ -1,3 +1,5 @@
+//print a singly linked list in reverse
+
 import java.util.LinkedList;
 import java.util.Stack;
 
