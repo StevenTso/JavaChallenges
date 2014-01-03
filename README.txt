@@ -1,0 +1,1 @@
+Random problems I find online and try to solve. Problems taken from many places. rosettacode.org is awesome.
